@@ -1,0 +1,12 @@
+.DS_STORE
+*.pyc
+logs*
+*.log
+__pycache__
+
+test_*.py
+test_*
+.venvllama.cpp/
+llama.cpp/
+models/
+venv/
